@@ -1,0 +1,16 @@
+.embeddedMaps{
+
+height:50vh;
+width:98%;
+}
+
+
+@media screen (max-width:576px) {
+
+.embeddedMaps{
+height:50vh;
+margin-left:1vw;
+float:right;
+}
+
+}
